@@ -13,7 +13,7 @@ on:
 
   push:
     branches: ok
-      - master
+      - maste
 
   #schedule:
   #  - cron: 0 8 * * 5
